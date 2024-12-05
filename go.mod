@@ -1,4 +1,4 @@
-module gitlab.com/tiendat3550/protoc-gen-gorm-enum
+module https://github.com/ndtdat/protoc-gen-gorm-enum
 
 go 1.23.0
 
